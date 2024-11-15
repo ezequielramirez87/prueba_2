@@ -1,0 +1,3 @@
+[submodule "librerias/mi-libreria"]
+	path = librerias/mi-libreria
+	url = https://github.com/ezequielramirez87/prueba.git
